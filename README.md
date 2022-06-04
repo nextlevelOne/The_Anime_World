@@ -1,4 +1,6 @@
 # The_Anime_World
+sql key
+L+&!lpc8N3MX
 
 Vue 3.0 + flask + mysql 
 
@@ -20,3 +22,6 @@ mysql, mongodb
 
 data collection:
 scrapy (X requests(low efficiency for large amount of data))
+
+
+new knowledge:
